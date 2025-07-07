@@ -46,12 +46,18 @@ I’ve taken on a personal challenge to become a **Full Stack Developer** and ma
 
 --------------------------------------------------------------------------------------------
 
-## 📅 Daily Progress
+## 📅 Daily Progress of Full-StackDevelopment
 
-| Day | Topic / Concept | Code Link |
-|-----|------------------|-----------|
-|  1  |
+| Day | Topic / Concept 
+|-----|---------------------|
+|  1  | Hight or Function                  
 
+
+## 📅 Daily Progress of DSA
+
+| Day | Topic / Concept 
+|-----|---------------------|
+|  1  | 3 question of Array  
 
 ✅ I’ll update this table daily.
 
