@@ -50,7 +50,8 @@ I’ve taken on a personal challenge to become a **Full Stack Developer** and ma
 
 | Day | Topic / Concept 
 |-----|---------------------|
-|  1  | Hight or Function                  
+|  1  | High order Function 
+|  2  | Concept of Hook             
 
 
 ## 📅 Daily Progress of DSA
@@ -58,7 +59,7 @@ I’ve taken on a personal challenge to become a **Full Stack Developer** and ma
 | Day | Topic / Concept 
 |-----|---------------------|
 |  1  | 3 question of Array  
-
+|  2  | 2 quesion of Array
 ✅ I’ll update this table daily.
 
 ---
