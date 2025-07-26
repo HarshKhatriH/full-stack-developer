@@ -51,7 +51,9 @@ I’ve taken on a personal challenge to become a **Full Stack Developer** and ma
 | Day | Topic / Concept 
 |-----|---------------------|
 |  1  | High order Function 
-|  2  | Concept of Hook             
+|  2  | Concept of Hook    
+-----till 7 --- focus on dsa and someConcept , added code on day basis
+|  8  | Counter App using (Redux-Toolkit)         
 
 
 ## 📅 Daily Progress of DSA
